@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    tools:context=".LabTestDetailsActivity">
+
+    <TextView
+        android:id="@+id/textViewLabDetailsTotalCost"
+        android:layout_width="319dp"
+        android:layout_height="47dp"
+
+        android:layout_marginTop="44dp"
+        android:text="Text View"
+        android:textColor="@color/yellowLight"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextLabTestDetails" />
+
+    <TextView
+        android:id="@+id/textViewCartLabTestDetailsPackageName"
+        android:layout_width="378dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="12dp"
+        android:text="Lab Test and Packeg"
+
+        android:textColor="@color/yellowLight"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextViewCartLabTestTtitle" />
+
+    <TextView
+        android:id="@+id/TextViewDoctorDeatileNameLabTest"
+        android:layout_width="365dp"
+        android:layout_height="50dp"
+        android:text="24*7 HEALTHCARE"
+        android:textColor="@color/purple_200"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.652"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/TextViewCartLabTestTtitle"
+        android:layout_width="298dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="8dp"
+
+        android:text="CheckupLocation:India"
+        android:textColor="@color/colorwhite"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextViewDoctorDeatileNameLabTest" />
+
+    <EditText
+        android:id="@+id/editTextLabTestDetails"
+        android:layout_width="397dp"
+        android:layout_height="348dp"
+        android:layout_marginTop="28dp"
+        android:text="Hii... \n Helo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.466"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewCartLabTestDetailsPackageName" />
+
+    <Button
+        android:id="@+id/btnLabtestDetailsAddToCart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Add To Cart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLabDetailsTotalCost" />
+
+    <Button
+        android:id="@+id/btnLabTestDetailsAcBack"
+        android:layout_width="89dp"
+        android:layout_height="37dp"
+        android:text="Back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnLabtestDetailsAddToCart" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
