@@ -126,4 +126,18 @@ Weeks 7-8: User Interface Design and Accessibility Integration
 
 ![image](https://github.com/user-attachments/assets/868cda74-31b3-453d-a171-f744a531ea8a)
 ![image](https://github.com/user-attachments/assets/e3eb5faf-4b96-416a-82b2-099d9eca9da2)
+![image](https://github.com/user-attachments/assets/9be90107-4d52-4be4-9162-316e650c4d55)
+![image](https://github.com/user-attachments/assets/b9bb6ed8-cd12-4984-a85c-ce96d2b8f470)
+![image](https://github.com/user-attachments/assets/0695271e-3067-4f79-bfc8-9135660fb630)
+![image](https://github.com/user-attachments/assets/0a64fc2b-766a-44b1-89af-c1852058aff0)
+![image](https://github.com/user-attachments/assets/a679d3d8-25e7-4953-bac5-046e167d5c57)
+![image](https://github.com/user-attachments/assets/5faa0cea-ada7-4532-8b2c-ea9c25b07faa)
+![image](https://github.com/user-attachments/assets/edd03a2a-596c-4dfe-b80f-428a9ea5c26d)
+
+
+
+
+
+
+
 
